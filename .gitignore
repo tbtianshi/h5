@@ -1,0 +1,13 @@
+.project
+.idea/
+.temp/
+logs/
+.DS_Store
+*.log
+*.csv
+*.zip
+public/js/main.js
+node_modules
+./config.js
+dist/
+src/pages/.umi/
